@@ -88,3 +88,6 @@ These features align with expectations, confirming the importance of financial i
 ## Conclusion
 
 The Gradient Boosting model demonstrates superior performance in predicting potential donors. The selected features provide valuable insights for targeted outreach by CharityML.
+
+## Acknowledgments
+This project is part of the Udacity Nanodegree program. 
